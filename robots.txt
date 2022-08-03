@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-baraya-panggih.github.io/legi-1/sitemap.xml
